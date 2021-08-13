@@ -2,4 +2,4 @@ Project requirements: https://www.freecodecamp.org/learn/front-end-libraries/fro
 
 Project example: https://codepen.io/freeCodeCamp/pen/GrZVVO
 
-DEMO: https://github.com/Jabronski/fcc-markdown-previewer
+DEMO: "https://jabronski.github.io/fcc-markdown-previewer/"
